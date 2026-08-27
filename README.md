@@ -37,7 +37,7 @@ I prefer inspectable claims over impressive claims, explicit authorization over 
 
 Research materials are published in English and Brazilian Portuguese.
 
-[LinkedIn](https://www.linkedin.com/in/tabata-j-226b6123/) · [Nirmata](https://github.com/thabatarj8-stack/nirmata)
+[ORCID 0009-0007-1104-9204](https://orcid.org/0009-0007-1104-9204) · [LinkedIn](https://www.linkedin.com/in/tabata-j-226b6123/) · [Nirmata](https://github.com/thabatarj8-stack/nirmata)
 
 ---
 
@@ -53,4 +53,4 @@ O **[Nirmata](https://github.com/thabatarj8-stack/nirmata/blob/main/README.pt-BR
 - [Leia os artigos em português](https://github.com/thabatarj8-stack/nirmata/tree/main/articles/pt-BR)
 - [Confira o estado real das evidências](https://github.com/thabatarj8-stack/nirmata/blob/main/docs/EVIDENCE-STATUS.pt-BR.md)
 
-[LinkedIn](https://www.linkedin.com/in/tabata-j-226b6123/) · [Nirmata](https://github.com/thabatarj8-stack/nirmata)
+[ORCID 0009-0007-1104-9204](https://orcid.org/0009-0007-1104-9204) · [LinkedIn](https://www.linkedin.com/in/tabata-j-226b6123/) · [Nirmata](https://github.com/thabatarj8-stack/nirmata)
