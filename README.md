@@ -17,7 +17,7 @@ I study what final-answer evaluation misses when agents use tools, cross authori
 
 | Explore | What you will find |
 |---|---|
-| [Start with the project](https://github.com/thabatarj8-stack/nirmata#start-here) | Research map, current status, scope, and limitations |
+| [Start with the project](https://github.com/thabatarj8-stack/nirmata#quickstart) | Quickstart, current status, scope, and limitations |
 | [Methodology](https://github.com/thabatarj8-stack/nirmata/blob/main/docs/METHODOLOGY.md) | Factorized evaluators, process taxonomy, blinding, and metrics |
 | [Evidence ledger](https://github.com/thabatarj8-stack/nirmata/blob/main/docs/EVIDENCE-STATUS.md) | Supported statements beside unsupported extrapolations |
 | [Experiment registry](https://github.com/thabatarj8-stack/nirmata/tree/main/experiments) | Exploratory, development, integration, and invalidated work |
